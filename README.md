@@ -1,5 +1,5 @@
 # FloatingViewExample
- Demonstration of two different types of [Floating Views](app\src\main\java\com\licketycut\floatingviewexample\FloatingView.java).
+ Demonstration of two different types of [Floating Views](app/src/main/java/com/licketycut/floatingviewexample/FloatingView.java).
 
 ## FloatingView
  An abstract class created to facilitate custom views which are attached to the Window Manager and float on top of the display.
