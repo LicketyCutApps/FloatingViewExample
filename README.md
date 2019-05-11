@@ -4,7 +4,7 @@
 ## FloatingView
  An abstract class created to facilitate custom views which are attached to the Window Manager and float on top of the display.
 
- Many different layouts could be designed to take advantage of the base class. For this example I have created these two.
+ Many different layouts could be designed to take advantage of the base class. For this example I have created these two:
  
 * ## FloatingButtonView
    An extension of the FloatingView class, which consists of a button and popup menu which can be clicked, dragged and long pressed for menu.
