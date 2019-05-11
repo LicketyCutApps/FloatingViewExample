@@ -1,0 +1,3 @@
+<resources>
+    <integer name="ongoing_notification_id">1234567890</integer>
+</resources>
